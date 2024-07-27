@@ -1,0 +1,43 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level_01.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Pixel Adventure.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "level_01.tmx": {
+            "scale": 1.2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 317.91666666666674,
+                "y": 225.41666666666669
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/User/flutter/flutterProjects/game_dev/pixel_adventure/assets/images/Terrain",
+    "map.height": 23,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "openFiles": [
+        "Pixel Adventure.tsx",
+        "level_01.tmx"
+    ],
+    "project": "pixel_adventure.tiled-project",
+    "recentFiles": [
+        "Pixel Adventure.tsx",
+        "level_01.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
